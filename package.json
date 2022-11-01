@@ -1,0 +1,22 @@
+{
+  "name": "@zilongzhang/vuepress-theme-dargon",
+  "version": "1.0.7",
+  "description": "vuepress自定义主题",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^2.15.10",
+    "async-validator": "^1.11.5",
+    "@vuepress/plugin-search": "^1.9.7",
+    "babel-plugin-component": "^1.1.1",
+    "@zilongzhang/vuepress-plugin-anchor": "^1.0.8",
+    "vuepress": "^1.9.7"
+  }
+}
